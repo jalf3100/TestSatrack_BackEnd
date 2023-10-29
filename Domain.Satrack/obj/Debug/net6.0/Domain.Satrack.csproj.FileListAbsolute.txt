@@ -1,0 +1,14 @@
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Domain.Satrack\bin\Debug\net6.0\Domain.Satrack.deps.json
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Domain.Satrack\bin\Debug\net6.0\Domain.Satrack.runtimeconfig.json
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Domain.Satrack\bin\Debug\net6.0\Domain.Satrack.dll
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Domain.Satrack\bin\Debug\net6.0\Domain.Satrack.pdb
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Domain.Satrack\obj\Debug\net6.0\Domain.Satrack.csproj.AssemblyReference.cache
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Domain.Satrack\obj\Debug\net6.0\Domain.Satrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Domain.Satrack\obj\Debug\net6.0\Domain.Satrack.AssemblyInfoInputs.cache
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Domain.Satrack\obj\Debug\net6.0\Domain.Satrack.AssemblyInfo.cs
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Domain.Satrack\obj\Debug\net6.0\Domain.Satrack.csproj.CoreCompileInputs.cache
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Domain.Satrack\obj\Debug\net6.0\Domain.Satrack.dll
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Domain.Satrack\obj\Debug\net6.0\refint\Domain.Satrack.dll
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Domain.Satrack\obj\Debug\net6.0\Domain.Satrack.pdb
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Domain.Satrack\obj\Debug\net6.0\Domain.Satrack.genruntimeconfig.cache
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Domain.Satrack\obj\Debug\net6.0\ref\Domain.Satrack.dll

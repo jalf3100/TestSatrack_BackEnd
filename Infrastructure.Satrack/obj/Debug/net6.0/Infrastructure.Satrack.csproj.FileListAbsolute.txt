@@ -1,0 +1,17 @@
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Infrastructure.Satrack\bin\Debug\net6.0\Infrastructure.Satrack.deps.json
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Infrastructure.Satrack\bin\Debug\net6.0\Infrastructure.Satrack.dll
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Infrastructure.Satrack\bin\Debug\net6.0\Infrastructure.Satrack.pdb
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Infrastructure.Satrack\bin\Debug\net6.0\Domain.Satrack.dll
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Infrastructure.Satrack\bin\Debug\net6.0\Utilities.Satrack.dll
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Infrastructure.Satrack\bin\Debug\net6.0\Domain.Satrack.pdb
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Infrastructure.Satrack\bin\Debug\net6.0\Utilities.Satrack.pdb
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Infrastructure.Satrack\obj\Debug\net6.0\Infrastructure.Satrack.csproj.AssemblyReference.cache
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Infrastructure.Satrack\obj\Debug\net6.0\Infrastructure.Satrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Infrastructure.Satrack\obj\Debug\net6.0\Infrastructure.Satrack.AssemblyInfoInputs.cache
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Infrastructure.Satrack\obj\Debug\net6.0\Infrastructure.Satrack.AssemblyInfo.cs
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Infrastructure.Satrack\obj\Debug\net6.0\Infrastructure.Satrack.csproj.CoreCompileInputs.cache
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Infrastructure.Satrack\obj\Debug\net6.0\Infrastructure.Satrack.csproj.CopyComplete
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Infrastructure.Satrack\obj\Debug\net6.0\Infrastructure.Satrack.dll
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Infrastructure.Satrack\obj\Debug\net6.0\refint\Infrastructure.Satrack.dll
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Infrastructure.Satrack\obj\Debug\net6.0\Infrastructure.Satrack.pdb
+C:\JALF\Desarrollo\Pruebas\Satrack\2-BackEnd\Satrack\Infrastructure.Satrack\obj\Debug\net6.0\ref\Infrastructure.Satrack.dll
